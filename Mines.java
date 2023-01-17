@@ -12,6 +12,7 @@ import java.util.*;
 
 public class Mines {
 
+
     private static ArrayList<Point> data = new ArrayList<>(); // Περιέχει όλα τα αρχικά δεδομένα από το αρχείο
     private static ArrayList<Point> solution = new ArrayList<>(); // Περιέχει όλα τα στοιχεία της λύσης
    /* Δημιουργήθηκε συγκριτής για την ταξινόμηση των δεδομένων με βάση την χ μεταβλητή
